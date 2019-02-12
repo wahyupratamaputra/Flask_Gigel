@@ -35,6 +35,7 @@ Berikut endpointnya:
 
 
 # CATATAN
-Database yang digunakan adalah sqlite dan tersimpan pada folder **db**
-aplikasi ini selain rest api, bisa diakses menggunakan browser juga dengan mengakses [http://localhost:5000](http://localhost:5000)
+*Database yang digunakan adalah sqlite dan tersimpan pada folder **db** dan jika ingin mengecek langsung databasenya bisa menggunakan [DB Browser for SQLite](https://sqlitebrowser.org/)
+
+*aplikasi ini selain rest api, bisa diakses menggunakan browser juga dengan mengakses [http://localhost:5000](http://localhost:5000)
 
