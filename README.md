@@ -14,7 +14,7 @@ $ git clone https://github.com/wahyupratamaputra/Flask_Gigel.git
 
 kemudian masuk ke directory yang telah di clone dan langsung jalankan aplikasinya dengan cara perintah dibawah:
 ```sh
-$ cd Flask_Gigel
+$ cd Flask_RESTapi
 $ flask run
 ```
 
